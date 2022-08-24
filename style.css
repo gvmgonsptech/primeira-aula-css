@@ -1,0 +1,9 @@
+/*  Aqui temos um CSS Externo, atribuindo essas classes no h1 e no h2 no HTML */
+.titulo {
+  color: red;
+  background-color: black;
+}
+
+.subtitulo {
+  color: green;
+}
